@@ -13,7 +13,7 @@ import java.sql.Timestamp;
 import java.util.Date;
 
 @WebServlet(
-        urlPatterns = {"/addGameAction"}
+        urlPatterns = {"/addGameActions"}
 )
 public class AddGameController extends HttpServlet {
 
